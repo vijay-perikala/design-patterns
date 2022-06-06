@@ -13,7 +13,7 @@ There are three types of design patterns in cataogery
 This repository will provide Java examples of design patterns in all three categories.
 
 
-Creational Design Pattrens
+*1. Creational Design Pattrens*
 ---------------------------------
 Various object creational machnisams are provided by Creational Design patterns. 
  
@@ -30,7 +30,7 @@ Various object creational machnisams are provided by Creational Design patterns.
  *Singleton*
 
 
- Structural Design Pattrens
+ *2. Structural Design Pattrens*
 ---------------------------------
 They explain how to assemble objects and classes into larger structures.
  
@@ -48,7 +48,7 @@ They explain how to assemble objects and classes into larger structures.
 
   *Proxy*
 
-   Behavioral Design Pattrens
+ *3. Behavioral Design Pattrens*
 ---------------------------------
 They are concerned with algorithms and the assignment of responsibilities between objects.
  
