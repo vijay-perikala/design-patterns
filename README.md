@@ -15,7 +15,7 @@ This repository will provide Java examples of design patterns in all three categ
 
 *1. Creational Design Pattrens*
 ---------------------------------
-Various object creational machnisams are provided by Creational Design patterns. 
+Various object creational machnisams are provided by Creational Design patterns.  
  
  *Simple Factory*
 
@@ -48,6 +48,10 @@ They explain how to assemble objects and classes into larger structures.
 
   *Proxy*
 
+_Adapter Design Patterns:_
+
+
+
  *3. Behavioral Design Pattrens*
 ---------------------------------
 They are concerned with algorithms and the assignment of responsibilities between objects.
@@ -64,13 +68,13 @@ They are concerned with algorithms and the assignment of responsibilities betwee
 
  *Observer*
 
-  *State*
+ *State*
 
-  *Strategy*
+ *Strategy*
 
-  *Template Method*
+ *Template Method*
 
-  *Visitor*
+ *Visitor*
 
 
 
